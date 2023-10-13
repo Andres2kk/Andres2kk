@@ -1,4 +1,4 @@
-## Eae, meu nome é <span style="color:deepskyblue; border-bottom: 1px solid deepskyblue;">Andres Olivera</span> 🖖
+### Eae, meu nome é Andres Olivera 🖖
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/andres-undefined-75092b27a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
